@@ -1,7 +1,13 @@
 description: ""
 author: "TecOrb-Developers"
 
-runs-on: ubuntu-latest
+runs:
+  using: "composite"
+  steps: 
+    - name: Echo
+      shell: bash
+    - run: echo Hello ${{ inputs.who-to-greet }}.
+      shell: bash
 
 inputs:
   github_user_name:
