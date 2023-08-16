@@ -1,7 +1,7 @@
 ## GitHub Action for generating a contribution graph with a snake eating your contributions.
 ## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
-name: generate animation
+name: snake animation
 
 on:
   # run automatically every 12 hours
@@ -25,7 +25,7 @@ jobs:
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate github-contribution-snake.svg
         # uses: Platane/snk/svg-only@v3
         uses: actions/checkout@v3
         # uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662  # v3.0.0
@@ -33,11 +33,11 @@ jobs:
         with:
           github_user_name: TecOrb-Developers
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-snake.svg
+            dist/github-contribution-snake-dark.svg?palette=github-dark
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      - name: Push github-contribution-snake.svg to the output branch
         # uses: crazy-max/ghaction-github-pages@v2.6.0
         uses: actions/checkout@v3  # v3.0.0
         with:
