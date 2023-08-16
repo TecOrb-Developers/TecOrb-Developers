@@ -3,12 +3,9 @@ author: "TecOrb-Developers"
 
 runs:
   using: "composite"
-  steps: 
-    - name: Echo
+  steps:
+    - id: github_user_name
       shell: bash
-    - run: echo Hello ${{ inputs.github_user_name }}.
-      shell: bash
-
 inputs:
   github_user_name:
     description: "TecOrb-Developers"
