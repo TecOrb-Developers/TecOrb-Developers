@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](assets/welcome.svg)
 
 <!--   my-icons -->
 <p align="center">
