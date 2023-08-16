@@ -1,7 +1,7 @@
 description: ""
 author: "TecOrb-Developers"
 
-
+runs-on: ubuntu-latest
 
 inputs:
   github_user_name:
