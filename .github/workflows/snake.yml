@@ -1,12 +1,12 @@
 ## GitHub Action for generating a contribution graph with a snake eating your contributions.
 ## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
-name: snake animation
+name: Snake animation
 
 on:
   # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -52,7 +52,7 @@ jobs:
       - name: Push changes
         uses: actions/checkout@v3  # v3.0.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
           
