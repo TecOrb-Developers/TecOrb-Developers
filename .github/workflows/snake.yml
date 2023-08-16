@@ -26,7 +26,10 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        # uses: Platane/snk/svg-only@v3
+        uses: actions/checkout@v3
+        # uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662  # v3.0.0
+
         with:
           github_user_name: TecOrb-Developers
           outputs: |
@@ -35,7 +38,8 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        # uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662  # v3.0.0
         with:
           target_branch: output
           build_dir: dist
