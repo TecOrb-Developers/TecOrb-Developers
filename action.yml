@@ -4,8 +4,9 @@ author: "TecOrb-Developers"
 runs:
   using: "composite"
   steps:
-   - run: echo Hello "github_user_name".
+      - run: echo Hello ${{ inputs.github_user_name }}.
       shell: bash
+
    
 inputs:
   github_user_name:
