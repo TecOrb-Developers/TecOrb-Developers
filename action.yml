@@ -6,7 +6,7 @@ runs:
   steps: 
     - name: Echo
       shell: bash
-    - run: echo Hello ${{ inputs.who-to-greet }}.
+    - run: echo Hello ${{ inputs.github_user_name }}.
       shell: bash
 
 inputs:
