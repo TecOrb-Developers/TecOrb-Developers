@@ -24,7 +24,7 @@ jobs:
     steps:
 
      - name: Generate github-contribution-grid-snake.svg
-        uses: actions/checkout@v3
+       
         with:
           github_user_name: TecOrb-Developers
           outputs: |
