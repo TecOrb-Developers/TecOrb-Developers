@@ -1,8 +1,5 @@
 description: ""
 author: "TecOrb-Developers"
-# show the status of the build. Makes it easier for debugging (if there's any issues).
-runs:
-  using: self-hosted
 
 
 
