@@ -77,11 +77,8 @@
   </a>  
 </p>
 
-<details> 
-   <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/> 
+ <!--  Matrics stats   -->
+<img width="100%" src="https://metrics.lecoq.io/TecOrb-Developers?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo" />
 
-![Metrics](https://metrics.lecoq.io/TecOrb-Developers?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
-
-</details> 
 
 
