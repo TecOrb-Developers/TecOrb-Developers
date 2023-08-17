@@ -35,11 +35,46 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- [![TecOrb-Developer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TecOrb-Developers&theme=github-compact)](https://github.com/TecOrb-Developers/github-readme-activity-graph) -->
-![TecOrb-Developer's github activity graph](https://raw.githubusercontent.com/TecOrb-Developers/TecOrb-Developers/output/github-contribution-grid-snake.svg)
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+<!-- ![TecOrb-Developer's github activity graph](https://raw.githubusercontent.com/TecOrb-Developers/TecOrb-Developers/output/github-contribution-grid-snake.svg)-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TecOrb-Developers"></img>
+
+# My Stats :chart_with_upwards_trend:
+<p align="center">
+  <a href="https://github.com/TecOrb-Developers">
+    <img src="https://github-profile-trophy.vercel.app/?username=TecOrb-Developers&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5&theme=gruvbox" alt="TecOrb-Developers" />
+  </a>
+</p>
+
+<p align="center">
+<!--  Total stars  -->
+  <a href="https://github.com/TecOrb-Developers?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/TecOrb-Developers"/>. 
+  </a>
+  <!--  Follow me on github  -->
+  <a href="https://github.com/TecOrb-Developers?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/TecOrb-Developers?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+</p>
+
+ <p align="center">
+   <!--  Streaks stats   -->
+  <a href="https://github.com/TecOrb-Developers/">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TecOrb-Developers" src="https://github-readme-streak-stats.herokuapp.com/?user=TecOrb-Developers&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/TecOrb-Developers">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=TecOrb-Developers&count_private=true&show_icons=true&custom_title=TecOrb-Developers's%20Github%20Status&theme=vision-friendly-dark"
+    />
+  </a>
+  <a href="https://github.com/TecOrb-Developers">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecOrb-Developers&layout=compact&theme=vision-friendly-dark" />
+  </a>  
+</p>
 
 
 
