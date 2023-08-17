@@ -12,6 +12,7 @@
 
 
 
+
 <!--   my-header-img -->
 ![](./src/header.png)
 
@@ -41,7 +42,7 @@
 # My Stats :chart_with_upwards_trend:
 <p align="center">
   <a href="https://github.com/TecOrb-Developers">
-    <img src="https://github-profile-trophy.vercel.app/?username=TecOrb-Developers&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5&theme=gruvbox" alt="TecOrb-Developers" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TecOrb-Developers&title=Commit,Followers,Repositories,Stars,PullRequest,Issues,MultiLanguage&margin-w=5&theme=gruvbox" alt="TecOrb-Developers" />
   </a>
 </p>
 
