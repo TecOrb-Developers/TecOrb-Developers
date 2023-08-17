@@ -82,9 +82,10 @@
 
 
 
-#### Thanks for visiting :heart:
+ #### <p align="center"> Thanks for visiting :heart:    </p>
 <p align="center"> 
-    <img src="https://profile-counter.glitch.me/TecOrb-Developers/count.svg"> 
+
+ <img align="center" src="https://profile-counter.glitch.me/TecOrb-Developers/count.svg"> 
     
 counting of visitors to this page in this section started from August 17, 2023
 </p>
