@@ -98,20 +98,20 @@
     <a href="mailto:rishabh@tecorb.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://www.linkedin.com/company/tecorbtechnologies">
+    <a href="https://www.linkedin.com/company/tecorbtechnologies" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-      <a href="skype:tecorb?chat">
+      <a href="skype:tecorb?chat" target="_blank">
         <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype">
     </a>
-    <a href="https://tecorbcompany.slack.com/messages/general/">
+    <a href="https://tecorbcompany.slack.com/messages/general/" target="_blank">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
     </a>
-      <a href="https://www.linkedin.com/in/dawidolko/">
+      <a href="whatsapp://send?abid=+919910781148&text=Hello%2C%20World!" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
       </a>
-      <a href="whatsapp://send?abid=+919910781148&text=Hello%2C%20World!">
+      <a href="https://www.upwork.com/agencies/1033068490733023232" target="_blank">
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="UpWork">
     </a>
 </p>
