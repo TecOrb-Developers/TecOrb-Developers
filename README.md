@@ -82,8 +82,41 @@
 
  <!--  Matrics stats   -->
 <img width="100%" src="https://metrics.lecoq.io/TecOrb-Developers?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo" />
+ <!--  Connect    -->
 
+  <!-- 
+## **Connect with me:**
 
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+  </a>
+</p>
+</div>
+   
+<p align="center">
+    <a href="mailto:poczta@dawidolko.pl">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/dawidolko/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+      <a href="mailto:poczta@dawidolko.pl">
+        <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/dawidolko/">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="LinkedIn">
+    </a>
+      <a href="https://www.linkedin.com/in/dawidolko/">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn">
+    </a>
+      </a>
+      <a href="https://www.linkedin.com/in/dawidolko/">
+        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="LinkedIn">
+    </a>
+</p>
+ -->
 
  #### <p align="center"> Thanks for visiting :heart:    </p>
 <p align="center"> 
