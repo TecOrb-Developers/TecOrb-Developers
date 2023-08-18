@@ -101,10 +101,10 @@
     <a href="https://www.linkedin.com/company/tecorbtechnologies" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-      <a href="https://join.skype.com/invite/k0rthDUfWSFG" target="_blank">
+    <a href="https://join.skype.com/invite/k0rthDUfWSFG" target="_blank">
         <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype">
     </a>
-    <a href="https://tecorbcompany.slack.com/messages/general/" target="_blank">
+    <a href="https://tecorbcompany.slack.com/messages/general" target="_blank">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
     </a>
       <a href="https://wa.me/+919910781148" target="_blank">
